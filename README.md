@@ -1,2 +1,0 @@
-# MyPersonalWebSite
-HTML and CSS
